@@ -14,7 +14,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 const corsOptions = {
-    origin: 'https://movie-front-ribvhpw96-sai-raghava-bs-projects.vercel.app', // Your frontend's URL
+    origin: 'https://movie-front-end-omega.vercel.app', // Your frontend's URL
     optionsSuccessStatus: 200, // For legacy browser support
   };
   
