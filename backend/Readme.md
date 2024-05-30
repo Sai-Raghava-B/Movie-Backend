@@ -8,3 +8,4 @@ If you want to check in Postman You can do it directly.
 
 This is the FrontENd GitHub Repo:-  https://github.com/Sai-Raghava-B/movie-front-end
 
+The Deployed Link of the Backend:- https://movie-backend-ochre.vercel.app/
